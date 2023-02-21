@@ -1,0 +1,17 @@
+#First program in kotlin
+fun main() {
+    println("Hello, world!")
+}
+
+#Modifing the first program
+fun main() {
+    println("Happy Birthday!")
+}
+
+#Extending the program 
+fun main() {
+    println("Happy Birthday!")
+    println("Sparshika")
+    println("You are 23!")
+}
+
